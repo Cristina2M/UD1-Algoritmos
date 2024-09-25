@@ -1,0 +1,4 @@
+1- INICO
+2- LEER nombre
+3- MOSTRAR Hola nombre
+4- FIN
