@@ -1,0 +1,6 @@
+1- INICIO
+2- LEER cateto1
+3- LEER cateto2
+4- h= raizcuadrada (cateto1^2+cateot2^2)
+5- MOSTRAR Hipotenusa=h
+6- FIN
