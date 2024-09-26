@@ -3,5 +3,5 @@
 3- LEER altura
 4- a=base*altura
 5- p=(base+altura)*2
-6- MOSTRAR area=a y perimetro=p
+6- MOSTRAR "area="+a+" y perimetro="+p
 7- FIN
